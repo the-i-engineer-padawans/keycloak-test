@@ -19,6 +19,7 @@ Create:
 - Root URL: http://localhost:4200
 
 
-
+This video might help:
+https://youtu.be/PwyI3kXr_IM
 
 
