@@ -10,7 +10,7 @@ Now that the Server is running, go to http://localhost:8080 and create an accoun
 Add realm: 
 - Name: test-realm
 ## Add Users
-Add realm: 
+Add user: 
 - Username: test-user-1
 - Email Verified: ON
 ## Add Clients
